@@ -1,0 +1,51 @@
+Time,Balance Before,Balance After,Profit,Action
+2023-01-19 08:03:18,92 287.59,92 291.34,+3.75,"Close short position for symbol CME_MINI:MESH2023 at price 3910.50 for 1 shares. Position AVG Price was 3911.250000, currency: USD, point value: 5.000000"
+2023-01-19 08:03:18,92 291.34,92 290.34,-1.00,"Commission for: Close short position for symbol CME_MINI:MESH2023 at price 3910.50 for 1 shares. Position AVG Price was 3911.250000, currency: USD, point value: 5.000000"
+2023-01-19 07:49:51,92 288.59,92 287.59,-1.00,Commission for: Enter position for symbol CME_MINI:MESH2023 at price 3911.25 for 1 shares
+2023-01-18 15:44:06,92 280.84,92 289.59,+8.75,"Close short position for symbol CME_MINI:MESH2023 at price 3949.00 for 2 shares. Position AVG Price was 3949.875000, currency: USD, point value: 5.000000"
+2023-01-18 15:44:06,92 289.59,92 288.59,-1.00,"Commission for: Close short position for symbol CME_MINI:MESH2023 at price 3949.00 for 2 shares. Position AVG Price was 3949.875000, currency: USD, point value: 5.000000"
+2023-01-18 15:42:54,92 281.84,92 280.84,-1.00,Commission for: Enter position for symbol CME_MINI:MESH2023 at price 3949.00 for 1 shares
+2023-01-18 15:41:36,92 282.84,92 281.84,-1.00,Commission for: Enter position for symbol CME_MINI:MESH2023 at price 3950.75 for 1 shares
+2023-01-18 15:36:35,92 296.34,92 283.84,-12.50,"Close short position for symbol CME_MINI:ES1! at price 3954.75 for 1 shares. Position AVG Price was 3954.500000, currency: USD, point value: 50.000000"
+2023-01-18 15:36:35,92 283.84,92 282.84,-1.00,"Commission for: Close short position for symbol CME_MINI:ES1! at price 3954.75 for 1 shares. Position AVG Price was 3954.500000, currency: USD, point value: 50.000000"
+2023-01-18 15:36:16,92 297.34,92 296.34,-1.00,Commission for: Enter position for symbol CME_MINI:ES1! at price 3954.50 for 1 shares
+2023-01-18 13:07:20,92 295.84,92 298.34,+2.50,"Close short position for symbol CME_MINI:MESH2023 at price 3961.25 for 1 shares. Position AVG Price was 3961.750000, currency: USD, point value: 5.000000"
+2023-01-18 13:07:20,92 298.34,92 297.34,-1.00,"Commission for: Close short position for symbol CME_MINI:MESH2023 at price 3961.25 for 1 shares. Position AVG Price was 3961.750000, currency: USD, point value: 5.000000"
+2023-01-18 13:06:08,92 296.84,92 295.84,-1.00,Commission for: Enter position for symbol CME_MINI:MESH2023 at price 3961.75 for 1 shares
+2023-01-18 12:34:12,92 316.59,92 297.84,-18.75,"Close short position for symbol CME_MINI:MESH2023 at price 3968.00 for 3 shares. Position AVG Price was 3966.750000, currency: USD, point value: 5.000000"
+2023-01-18 12:34:12,92 297.84,92 296.84,-1.00,"Commission for: Close short position for symbol CME_MINI:MESH2023 at price 3968.00 for 3 shares. Position AVG Price was 3966.750000, currency: USD, point value: 5.000000"
+2023-01-18 12:33:55,92 317.59,92 316.59,-1.00,Commission for: Enter position for symbol CME_MINI:MESH2023 at price 3966.75 for 3 shares
+2023-01-18 11:03:40,92 318.59,92 318.59,0.00,"Close long position for symbol CME_MINI:NQ1! at price 11623.25 for 1 shares. Position AVG Price was 11623.250000, currency: USD, point value: 20.000000"
+2023-01-18 11:03:40,92 318.59,92 317.59,-1.00,"Commission for: Close long position for symbol CME_MINI:NQ1! at price 11623.25 for 1 shares. Position AVG Price was 11623.250000, currency: USD, point value: 20.000000"
+2023-01-18 11:01:10,92 319.59,92 318.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11623.25 for 1 shares
+2023-01-18 10:58:53,92 320.59,92 320.59,0.00,"Close long position for symbol CME_MINI:ES1! at price 4003.25 for 2 shares. Position AVG Price was 4003.250000, currency: USD, point value: 50.000000"
+2023-01-18 10:58:53,92 320.59,92 319.59,-1.00,"Commission for: Close long position for symbol CME_MINI:ES1! at price 4003.25 for 2 shares. Position AVG Price was 4003.250000, currency: USD, point value: 50.000000"
+2023-01-18 10:58:19,92 321.59,92 320.59,-1.00,Commission for: Enter position for symbol CME_MINI:ES1! at price 4003.25 for 1 shares
+2023-01-18 10:58:08,92 322.59,92 321.59,-1.00,Commission for: Enter position for symbol CME_MINI:ES1! at price 4003.25 for 1 shares
+2023-01-18 10:51:06,92 228.59,92 323.59,+95.00,"Close short position for symbol CME_MINI:NQ1! at price 11601.75 for 1 shares. Position AVG Price was 11606.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:51:06,92 323.59,92 322.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11601.75 for 1 shares. Position AVG Price was 11606.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:50:51,92 229.59,92 228.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11606.50 for 1 shares
+2023-01-18 10:50:19,92 225.59,92 230.59,+5.00,"Close short position for symbol CME_MINI:NQ1! at price 11608.00 for 1 shares. Position AVG Price was 11608.250000, currency: USD, point value: 20.000000"
+2023-01-18 10:50:19,92 230.59,92 229.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11608.00 for 1 shares. Position AVG Price was 11608.250000, currency: USD, point value: 20.000000"
+2023-01-18 10:50:15,92 226.59,92 225.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11608.25 for 1 shares
+2023-01-18 10:50:10,92 147.59,92 227.59,+80.00,"Close short position for symbol CME_MINI:NQ1! at price 11610.25 for 1 shares. Position AVG Price was 11614.250000, currency: USD, point value: 20.000000"
+2023-01-18 10:50:10,92 227.59,92 226.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11610.25 for 1 shares. Position AVG Price was 11614.250000, currency: USD, point value: 20.000000"
+2023-01-18 10:50:06,92 148.59,92 147.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11614.25 for 1 shares
+2023-01-18 10:48:32,92 134.59,92 149.59,+15.00,"Close short position for symbol CME_MINI:NQ1! at price 11620.75 for 1 shares. Position AVG Price was 11621.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:48:32,92 149.59,92 148.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11620.75 for 1 shares. Position AVG Price was 11621.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:47:00,92 135.59,92 134.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11621.50 for 1 shares
+2023-01-18 10:44:10,92 071.59,92 136.59,+65.00,"Close short position for symbol CME_MINI:NQ1! at price 11624.00 for 1 shares. Position AVG Price was 11627.250000, currency: USD, point value: 20.000000"
+2023-01-18 10:44:10,92 136.59,92 135.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11624.00 for 1 shares. Position AVG Price was 11627.250000, currency: USD, point value: 20.000000"
+2023-01-18 10:44:02,92 072.59,92 071.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11627.25 for 1 shares
+2023-01-18 10:43:07,92 023.59,92 073.59,+50.00,"Close short position for symbol CME_MINI:NQ1! at price 11642.25 for 1 shares. Position AVG Price was 11644.750000, currency: USD, point value: 20.000000"
+2023-01-18 10:43:07,92 073.59,92 072.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11642.25 for 1 shares. Position AVG Price was 11644.750000, currency: USD, point value: 20.000000"
+2023-01-18 10:43:03,92 024.59,92 023.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11644.75 for 1 shares
+2023-01-18 10:41:34,92 005.59,92 025.59,+20.00,"Close short position for symbol CME_MINI:NQ1! at price 11653.50 for 1 shares. Position AVG Price was 11654.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:41:34,92 025.59,92 024.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11653.50 for 1 shares. Position AVG Price was 11654.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:41:33,91 976.59,92 006.59,+30.00,"Close short position for symbol CME_MINI:NQ1! at price 11653.00 for 1 shares. Position AVG Price was 11654.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:41:33,92 006.59,92 005.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11653.00 for 1 shares. Position AVG Price was 11654.500000, currency: USD, point value: 20.000000"
+2023-01-18 10:41:14,91 977.59,91 976.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11657.50 for 1 shares
+2023-01-18 10:39:51,91 978.59,91 977.59,-1.00,Commission for: Enter position for symbol CME_MINI:NQ1! at price 11651.50 for 1 shares
+2023-01-18 10:39:46,91 997.09,91 979.59,-17.50,"Close short position for symbol CME_MINI:NQ1! at price 11656.50 for 1 shares. Position AVG Price was 11655.625000, currency: USD, point value: 20.000000"
+2023-01-18 10:39:46,91 979.59,91 978.59,-1.00,"Commission for: Close short position for symbol CME_MINI:NQ1! at price 11656.50 for 1 shares. Position AVG Price was 11655.625000, currency: USD, point value: 20.000000"
+2023-01-18 10:39:44,91 990.59,91 998.09,+7.50,"Close short position for symbol CME_MINI:NQ1! at price 11655.25 for 1 shares. Position AVG Price was 11655.625000, currency: USD, point value: 20.000000"
